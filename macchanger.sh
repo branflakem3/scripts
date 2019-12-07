@@ -1,9 +1,5 @@
 #!/bin/bash
 
-#MACchanger script writen by em3rgency
-#This script will automate the boring task of constantly changing your mac address of you NIC
-#It is very important you change your MAC address of you NIC if you are doing any kind of wireless pentesting.
-
 #DEFINED COLOR SETTINGS
 RED=$(tput setaf 1 && tput bold)
 GREEN=$(tput setaf 2 && tput bold)
